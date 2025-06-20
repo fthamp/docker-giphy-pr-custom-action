@@ -1,4 +1,4 @@
-name: docker giphy comment
+name: docker giphy comment #runner name
 on:
   pull_request: 
         types:
